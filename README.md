@@ -15,13 +15,13 @@ Created a weekly credit card dashboard providing real-time visibility to help st
 - 💻 **Programming Language: SQL** – Used to query, filter, aggregate, and prepare data from the MySQL database  
 - 📁 **File Formats** – `.pbix` for Power BI development and `.png` for dashboard snapshots and previews
 
-4. Data Source
+4.Data Source
    More info on where the data comes from and how it’s structured Example: Source: Kaggle & Google Dataset Search
 
 5.Business Problem-
     The business needed a centralized and real-time view of credit card financial performance. Key metrics like revenue, transaction volume, interest, customer         behavior, and week-over-week changes were scattered across raw SQL tables, making it difficult for stakeholders to quickly identify trends, high-performing         segments
 
-### 🎯 Goal of the Dashboard
+6.### 🎯 Goal of the Dashboard
 
 The goal was to build an interactive **Power BI dashboard** that:  
 - Provides real-time visibility into credit card performance  
