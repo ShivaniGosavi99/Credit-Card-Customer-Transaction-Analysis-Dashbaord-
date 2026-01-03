@@ -7,13 +7,15 @@ Purpose:
 The dashboard helps stakeholders monitor weekly and YTD performance, analyze revenue, and transaction trends, and identify key drivers by customer demographics, card type, and geography. These filters enable deeper analysis to understand which customer segments contribute most to performance and where improvements are needed.
 
 Tech-Stack- 
-• 📊 Power BI Desktop – Primary data visualization tool used for building interactive dashboards and reports.
-• 🔄 Power Query – Used for data extraction, transformation, and cleansing before analysis.
-• 🧠 DAX (Data Analysis Expressions) – Created calculated measures, KPIs, and dynamic logic for insights and comparisons.
-• 🧩 Data Modeling – Designed relationships across fact and dimension tables to enable accurate aggregation and cross-filtering.
-• 🗄️ Database: MySQL – Source system for storing and managing transactional and customer data.
-• 💻 Programming Language: SQL – Used to query, filter, aggregate, and prepare data from the MySQL database.
-• 📁 File Formats – .pbix for Power BI development and .png for dashboard snapshots and previews.
+## 🛠️ Tech Stack
+- 📊 **Power BI Desktop** – Primary data visualization tool used for building interactive dashboards and reports  
+- 🔄 **Power Query** – Used for data extraction, transformation, and cleansing before analysis  
+- 🧠 **DAX (Data Analysis Expressions)** – Created calculated measures, KPIs, and dynamic logic for insights and comparisons  
+- 🧩 **Data Modeling** – Designed relationships across fact and dimension tables to enable accurate aggregation and cross-filtering  
+- 🗄️ **Database: MySQL** – Source system for storing and managing transactional and customer data  
+- 💻 **Programming Language: SQL** – Used to query, filter, aggregate, and prepare data from the MySQL database  
+- 📁 **File Formats** – `.pbix` for Power BI development and `.png` for dashboard snapshots and previews
+
 
 4. Data Source
 More info on where the data comes from and how it’s structured Example: Source: Kaggle & Google Dataset Search
