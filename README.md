@@ -7,11 +7,14 @@ Purpose:
 The dashboard helps stakeholders monitor weekly and YTD performance, analyze revenue, and transaction trends, and identify key drivers by customer demographics, card type, and geography. These filters enable deeper analysis to understand which customer segments contribute most to performance and where improvements are needed.
 
 Tech-Stack- 
+
 Example: The dashboard was built using the following tools and technologies:
 • 📊 Power BI Desktop – Main data visualization platform used for report creation.
 • 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
 • 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.
-• 📝 Data Modeling – Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and aggregation.
+• 📝 Data Modeling – Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and aggregation. 
+      Database - MYSQL
+      Programming Language - SQL 
 • 📁 File Format – .pbix for development and .png for dashboard previews.
 
 4. Data Source
@@ -34,17 +37,18 @@ Category Breakdown: Revenue and transactions by card type, gender, and customer 
 Geographic View: State-wise contribution to overall transactions
 Filters/Slicers: Customer income, education, age, and mode of payment to quickly identify patterns and trends
 
-Dashboard Snapshot-
-![Image alt](https://github.com/ShivaniGosavi99/Credit-Card-Customer-Transaction-Analysis-Dashbaord-/blob/5a4edd16594122636c0aca79bb502294f04d14ac/Credit%20card%20Analysis%20Dashbaord%20Snapshot%20.png)
-
-
-
 Business Impact & Key Insights
 •	Identified a 28.8% week-over-week revenue increase, supported by growth in transaction amount and volume
 •	Found that Visa and Discover cards contribute to 93% of total transactions
 •	Observed that TX, NY, and CA drive 68% of total activity
 •	Gained visibility into activation (57.5%) and delinquency rates (6.06%) to monitor risk
 
+Dashboard Snapshot-
+![Image alt](https://github.com/ShivaniGosavi99/Credit-Card-Customer-Transaction-Analysis-Dashbaord-/blob/5a4edd16594122636c0aca79bb502294f04d14ac/Credit%20card%20Analysis%20Dashbaord%20Snapshot%20.png)
+
+
+
+![Image alt](https://github.com/ShivaniGosavi99/Credit-Card-Customer-Transaction-Analysis-Dashbaord-/blob/82bc82350e7847ff21d8ed8bf305246c1774b1bf/Customer%20Analysis%20Snapshot.png)
 
 
 
