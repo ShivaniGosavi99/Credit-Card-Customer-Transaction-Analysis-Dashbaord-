@@ -7,15 +7,13 @@ Purpose:
 The dashboard helps stakeholders monitor weekly and YTD performance, analyze revenue, and transaction trends, and identify key drivers by customer demographics, card type, and geography. These filters enable deeper analysis to understand which customer segments contribute most to performance and where improvements are needed.
 
 Tech-Stack- 
-
-Example: The dashboard was built using the following tools and technologies:
-• 📊 Power BI Desktop – Main data visualization platform used for report creation.
-• 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
-• 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.
-• 📝 Data Modeling – Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and aggregation. 
-      Database - MYSQL
-      Programming Language - SQL 
-• 📁 File Format – .pbix for development and .png for dashboard previews.
+• 📊 Power BI Desktop – Primary data visualization tool used for building interactive dashboards and reports.
+• 🔄 Power Query – Used for data extraction, transformation, and cleansing before analysis.
+• 🧠 DAX (Data Analysis Expressions) – Created calculated measures, KPIs, and dynamic logic for insights and comparisons.
+• 🧩 Data Modeling – Designed relationships across fact and dimension tables to enable accurate aggregation and cross-filtering.
+• 🗄️ Database: MySQL – Source system for storing and managing transactional and customer data.
+• 💻 Programming Language: SQL – Used to query, filter, aggregate, and prepare data from the MySQL database.
+• 📁 File Formats – .pbix for Power BI development and .png for dashboard snapshots and previews.
 
 4. Data Source
 More info on where the data comes from and how it’s structured Example: Source: Kaggle & Google Dataset Search
