@@ -35,7 +35,7 @@ Geographic View: State-wise contribution to overall transactions
 Filters/Slicers: Customer income, education, age, and mode of payment to quickly identify patterns and trends
 
 Dashboard Snapshot-
-![Dashboard preview].(https://github.com/ShivaniGosavi99/Credit-Card-Customer-Transaction-Analysis-Dashbaord-/blob/main/Credit%20card%20Analysis%20Dashbaord%20Snapshot%20.png).
+![Dashboard preview].(https://github.com/ShivaniGosavi99/Credit-Card-Customer-Transaction-Analysis-Dashbaord-/blob/main/Credit%20card%20Analysis%20Dashbaord%20Snapshot%20.png)
 
 
 
