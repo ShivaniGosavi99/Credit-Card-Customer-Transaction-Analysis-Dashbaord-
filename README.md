@@ -21,25 +21,28 @@ Created a weekly credit card dashboard providing real-time visibility to help st
 5.Business Problem-
     The business needed a centralized and real-time view of credit card financial performance. Key metrics like revenue, transaction volume, interest, customer         behavior, and week-over-week changes were scattered across raw SQL tables, making it difficult for stakeholders to quickly identify trends, high-performing         segments
 
-6.Goal of the Dashboard
-  -The goal was to build an interactive Power BI dashboard that:
-  -Provides real-time visibility into credit card performance
-  -Tracks weekly and YTD financial metrics
-  -Allows stakeholders to analyze trends by customer demographics, card types, payment modes, and geography
-  -Supports data-driven decision-making without manual analysis
+### 🎯 Goal of the Dashboard
 
-7.Walkthrough of Key Visuals (Brief)
-**KPI Cards: Display total revenue, transaction amount, transaction count, interest, activation rate, and delinquency rate
-**Trend Charts: Show week-over-week and YTD changes in revenue and transactions
-**Category Breakdown: Revenue and transactions by card type, gender, and customer segments
-**Geographic View: State-wise contribution to overall transactions
-**Filters/Slicers: Customer income, education, age, and mode of payment to quickly identify patterns and trends
+The goal was to build an interactive **Power BI dashboard** that:  
+- Provides real-time visibility into credit card performance  
+- Tracks weekly and YTD financial metrics  
+- Allows stakeholders to analyze trends by customer demographics, card types, payment modes, and geography  
+- Supports data-driven decision-making without manual analysis
 
-8.Business Impact & Key Insights
-**•	Identified a 28.8% week-over-week revenue increase, supported by growth in transaction amount and volume
-**•	Found that Visa and Discover cards contribute to 93% of total transactions
-**•	Observed that TX, NY, and CA drive 68% of total activity
-**•	Gained visibility into activation (57.5%) and delinquency rates (6.06%) to monitor risk
+7. Walkthrough of Key Visuals (Brief)
+The dashboard includes the following visuals:
+KPI Cards: Display total revenue, transaction amount, transaction count, interest, activation rate, and delinquency rate
+Trend Charts: Show week-over-week and YTD changes in revenue and transactions
+Category Breakdown: Revenue and transactions by card type, gender, and customer segments
+Geographic View: State-wise contribution to overall transactions
+Filters / Slicers: Customer income, education, age, and mode of payment to quickly identify patterns and trends
+
+8. Business Impact & Key Insights
+Identified a 28.8% week-over-week revenue increase, supported by growth in transaction amount and volume
+Found that Visa and Discover cards contribute to 93% of total transactions
+Observed that TX, NY, and CA drive 68% of total activity
+Gained visibility into activation (57.5%) and delinquency rates (6.06%) to monitor risk
+
 
 Dashboard Snapshot-
 ![Image alt](https://github.com/ShivaniGosavi99/Credit-Card-Customer-Transaction-Analysis-Dashbaord-/blob/5a4edd16594122636c0aca79bb502294f04d14ac/Credit%20card%20Analysis%20Dashbaord%20Snapshot%20.png)
